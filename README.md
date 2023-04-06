@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vicentendistes
-- 🌱 I’m currently learning Computer Science
+- Hi, I’m @Vicentendistes
+- I’m currently learning Computer Science
 - 📫 How to reach me: vicente.munoz.a@ug.uchile.cl
 
 <!---
